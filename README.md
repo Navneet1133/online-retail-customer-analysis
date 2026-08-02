@@ -14,11 +14,11 @@ real business questions:
 
 ## Dataset
 
-**Online Retail II** — UCI Machine Learning Repository / Kaggle. Contains all transactions
-between 01/12/2009 and 09/12/2011 for a UK-based, registered, non-store online retail company.
+This project analyzes retail transaction data containing customer purchases, product information, invoice details, quantities, prices, and transaction dates.
 
-Download: search "Online Retail II UCI" on Kaggle, or fetch directly from the
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii).
+The dataset is processed to perform exploratory data analysis (EDA), sales trend analysis, and customer segmentation using the RFM model.
+
+> Note: The raw dataset is not included in this repository due to its size.
 
 ## Methodology
 
